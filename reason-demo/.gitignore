@@ -1,0 +1,7 @@
+dist/
+lib/
+node_modules/
+src/**/*.bs.js
+.merlin
+npm-debug.log
+yarn-error.log
